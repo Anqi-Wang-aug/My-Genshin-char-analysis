@@ -1,8 +1,0 @@
-USE GENSHIN;
-
-INSERT INTO CLAYMORES_ATTACK (1ST, 2ND, 3RD, 4TH, 5TH, CHARGED_SPINNING, CHARGED_FINAL, SKILL_ID) VALUES (108, 99.8, 117, 154, 0, 69, 123, 7),
-											       		 (89, 86, 111, 134.7, 0, 72.7, 132, 10),
-											       		 (91, 90.6, 113, 111, 143, 71.9, 130, 1),
-											       		 (72.2, 71.4, 43.4, 98.1, 0, 62.5, 113, 31);
-
-SELECT * FROM CLAYMORES_ATTACK;
